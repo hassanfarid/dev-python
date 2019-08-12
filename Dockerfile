@@ -1,1 +1,1 @@
-FROM python:3.7.4-stretch
+FROM dm3ll3n/shinystudio
